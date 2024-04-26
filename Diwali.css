@@ -1,0 +1,43 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.stylea {
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/diwali-bg.png");
+    background-size: cover;
+    height: 30vh;
+}
+
+.styleb {
+    font-size: 32px;
+    font-family: "Caveat";
+    color: white;
+    padding: 12px;
+    width: 190px;
+}
+
+.stylec {
+    background-color: #e6f6ff;
+    padding: 20px;
+    text-align: center;
+}
+
+.styled {
+    background-color: white;
+    width: 108px;
+    border-radius: 12px;
+    padding: 8px;
+    text-align: center;
+    margin: 10px;
+}
+
+.stylee {
+    height: 80px;
+    width: 80px;
+}
+
+.stylef {
+    color: #616e7c;
+}
+
+.styleg {
+    color: #323f4b;
+}
